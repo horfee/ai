@@ -1,5 +1,5 @@
-# ai
-IBM Acoustic Insight frontend, developped in J2EE and using Polymer 3
+# IBM Acoustic Insights
+IBM Acoustic Insights frontend, developped in J2EE and using Polymer 3
 
 In order to use it, you will need to build the polymer and move the build to the webcontent folder.
 
