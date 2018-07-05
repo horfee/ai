@@ -1,0 +1,142 @@
+{
+	"en": {
+		"menuTitle": "Menu",
+		"scoreMenuItem": "Score",
+		"captureMenuItem": "Capture",
+		"parametersMenuItem": "Parameters",
+		"applicationTitle": "Acoustic Insight Scoring",
+
+		"scoreTitle": "Score files",
+		"scoreDropSoundDescription": "Drop sound here",
+		"scoreStartScoring": "Start scoring",
+		"scoreStopScoring": "Stop scoring",
+		"soundNoResult": "No result returned. Something went wrong in the AI services.",
+
+		"captureTitle": "Capture",
+		"captureDurationLabel": "Duration",
+		"captureDurationValue": "{duration} second(s)",
+		"captureRecordButtonStop": "stop",
+		"captureRecordButtonRecord": "Record",
+
+		"parametersTitle": "Acoustic Insight informations",
+		"parametersCellLabel": "Cell",
+		"parametersProductLabel": "Product Type",
+		"parametersUserLabel": "User",
+		"parametersApiKeyLabel": "Api Key",
+		"parametersSaveButtonLabel": "Save",
+		"parametersUrlLabel": "Url"
+
+	},
+	"en-US": {
+		"menuTitle": "Menu",
+		"scoreMenuItem": "Score",
+		"captureMenuItem": "Capture",
+		"parametersMenuItem": "Parameters",
+		"applicationTitle": "Acoustic Insight Scoring",
+
+		"scoreTitle": "Score files",
+		"scoreDropSoundDescription": "Drop sound here",
+		"scoreStartScoring": "Start scoring",
+		"scoreStopScoring": "Stop scoring",
+		"soundNoResult": "No result returned. Something went wrong in the AI services.",
+
+		"captureTitle": "Capture",
+		"captureDurationLabel": "Duration",
+		"captureDurationValue": "{duration} second(s)",
+		"captureRecordButtonStop": "stop",
+		"captureRecordButtonRecord": "Record",
+
+		"parametersTitle": "Acoustic Insight informations",
+		"parametersCellLabel": "Cell",
+		"parametersProductLabel": "Product Type",
+		"parametersUserLabel": "User",
+		"parametersApiKeyLabel": "Api Key",
+		"parametersSaveButtonLabel": "Save",
+		"parametersUrlLabel": "Url"
+
+	},
+	"en-UK": {
+		"menuTitle": "Menu",
+		"scoreMenuItem": "Score",
+		"captureMenuItem": "Capture",
+		"parametersMenuItem": "Parameters",
+		"applicationTitle": "Acoustic Insight Scoring",
+
+		"scoreTitle": "Score files",
+		"scoreDropSoundDescription": "Drop sound here",
+		"scoreStartScoring": "Start scoring",
+		"scoreStopScoring": "Stop scoring",
+		"soundNoResult": "No result returned. Something went wrong in the AI services.",
+
+		"captureTitle": "Capture",
+		"captureDurationLabel": "Duration",
+		"captureDurationValue": "{duration} second(s)",
+		"captureRecordButtonStop": "stop",
+		"captureRecordButtonRecord": "Record",
+
+		"parametersTitle": "Acoustic Insight informations",
+		"parametersCellLabel": "Cell",
+		"parametersProductLabel": "Product Type",
+		"parametersUserLabel": "User",
+		"parametersApiKeyLabel": "Api Key",
+		"parametersSaveButtonLabel": "Save",
+		"parametersUrlLabel": "Url"
+
+	},
+	"fr-FR": {
+		"menuTitle": "Menu",
+		"scoreMenuItem": "Evaluer",
+		"captureMenuItem": "Capturer",
+		"parametersMenuItem": "Paramètres",
+		"applicationTitle": "Scoring Acoustic Insight",
+
+		"scoreTitle": "Evaluer des fichiers",
+		"scoreDropSoundDescription": "Glisser les sons ici",
+		"scoreStartScoring": "Démarrer le scoring",
+		"scoreStopScoring": "Arrêter le scoring",
+		"soundNoResult": "Aucun résultat retourné. Une erreur a dû se produire sur la plateforme AI.",
+
+		"captureTitle": "Capturer",
+		"captureDurationLabel": "Durée",
+		"captureDurationValue": "{duration} seconde(s)",
+		"captureRecordButtonStop": "stop",
+		"captureRecordButtonRecord": "Enregistrer",
+
+		"parametersTitle": "Informations Acoustic Insight",
+		"parametersCellLabel": "Cellule",
+		"parametersProductLabel": "Type de produit",
+		"parametersUserLabel": "Utilisateur",
+		"parametersApiKeyLabel": "Clé d'Api",
+		"parametersSaveButtonLabel": "Sauvegarder",
+		"parametersUrlLabel": "Url"
+		
+	},
+	"fr": {
+		"menuTitle": "Menu",
+		"scoreMenuItem": "Evaluer",
+		"captureMenuItem": "Capturer",
+		"parametersMenuItem": "Paramètres",
+		"applicationTitle": "Scoring Acoustic Insight",
+
+		"scoreTitle": "Evaluer des fichiers",
+		"scoreDropSoundDescription": "Glisser les sons ici",
+		"scoreStartScoring": "Démarrer le scoring",
+		"scoreStopScoring": "Arrêter le scoring",
+		"soundNoResult": "Aucun résultat retourné. Une erreur a dû se produire sur la plateforme AI.",
+
+		"captureTitle": "Capturer",
+		"captureDurationLabel": "Durée",
+		"captureDurationValue": "{duration} seconde(s)",
+		"captureRecordButtonStop": "stop",
+		"captureRecordButtonRecord": "Enregistrer",
+
+		"parametersTitle": "Informations Acoustic Insight",
+		"parametersCellLabel": "Cellule",
+		"parametersProductLabel": "Type de produit",
+		"parametersUserLabel": "Utilisateur",
+		"parametersApiKeyLabel": "Clé d'Api",
+		"parametersSaveButtonLabel": "Sauvegarder",
+		"parametersUrlLabel": "Url"
+		
+	}
+}

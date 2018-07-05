@@ -1,0 +1,45 @@
+{
+  "entrypoint": "index.html",
+  "shell": "src/ai-app.js",
+  "sources": [
+    "images/**/*",
+    "src/**",
+    "package.json"
+  ],
+
+  "fragments": [
+    "src/ai-capture.js",
+    "src/ai-scoring.js",
+    "src/ai-parameters.js"
+  ],
+
+  "extraDependencies": [
+    "manifest.json",
+    "locales.json",
+    "wavesurfer.min.js",
+    "wavesurfer.regions.min.js",
+    "wavesurfer.timeline.min.js",
+    "node_modules/@webcomponents/webcomponentsjs/*.js",
+    "!node_modules/@webcomponents/webcomponentsjs/gulpfile.js",
+    "node_modules/@webcomponents/webcomponentsjs/bundles/*.js"
+  ],
+  "builds": [
+    { 
+      "name": "es5prod",
+      "preset": "es5-bundled",
+      "addServiceWorker": true,
+      "inlineScripts": false,
+      "bundle": true,
+      "js": {"minify": false, "compile": true},
+      "browserCapabilities": ["es2015", "push", "serviceworker"]
+    }
+    
+  ],
+  "moduleResolution": "node",
+  "npm": true,
+  "lint": {
+    "rules": [
+      "polymer-3"
+    ]
+  }
+}

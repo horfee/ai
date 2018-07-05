@@ -1,0 +1,21 @@
+{
+  "name": "Acoustic Insight Scoring",
+  "short_name": "AI",
+  "description": "This application allows user to score audio file in the IBM Acoustic Insight solution",
+  "icons": [
+    {
+      "src": "images/manifest/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "images/manifest/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/ai/",
+  "display": "standalone",
+  "theme_color": "#2196F3",
+  "background_color": "#2196F3"
+}
